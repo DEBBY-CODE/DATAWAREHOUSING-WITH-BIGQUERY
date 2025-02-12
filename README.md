@@ -92,4 +92,5 @@ ANSWER: GCP Bucket - When we query an external table, BigQuery reads the data fr
 
 
 Question 8. It is best practice in Big Query to always cluster your data:
+
 ANSWER: False -  While clustering can improve query performance and reduce costs, it is not always necessary. The decision to cluster or not depends on your query patterns, table size, and how frequently specific filters are used
